@@ -8,7 +8,7 @@
 [2,] -0.25  0.50  1.0
 [3,]  1.00  2.00  0.5
 
-## first run, uncached data
+## First run, uncached data
 > cacheSolve(m)
            [,1]       [,2]       [,3]
 [1,]  0.5773196 -0.7010309  0.2474227
